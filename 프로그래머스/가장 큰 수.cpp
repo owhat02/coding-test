@@ -23,7 +23,7 @@ string solution(vector<int> numbers) {
 
     return answer;
 }
-/*
+
 int main() {
     vector<int> numbers1 = { 6, 10, 2 };
     vector<int> numbers2 = { 3, 30, 34, 5, 9 };
@@ -33,4 +33,4 @@ int main() {
 
     cout << answer1 << "\n" << answer2 << endl;
     return 0;
-}*/
+}
