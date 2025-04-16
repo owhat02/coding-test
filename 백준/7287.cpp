@@ -1,4 +1,4 @@
-//백준 25083
+//백준 7287
 #include<iostream>
 
 using namespace std;
