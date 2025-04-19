@@ -1,4 +1,4 @@
-//000
+//น้มุ1000
 #include <iostream>
 using namespace std;
 int main() {
